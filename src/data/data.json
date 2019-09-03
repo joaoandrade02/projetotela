@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "7e623235-8651-4f4f-b986-ed982ac0d98f",
+    "titulo": "Estou escrevendo esse texto de modo aleatório",
+    "autor": "João de Andrade",
+    "texto": "Recentemente, em um p.e, o professor André me questionou se eu possuo interesse em seguir na área de informática... E, pra ser bem honesto, até algumas semanas atrás, eu me considerava o maior 'hater' de matérias técnicas de todos os institutos federais possíveis, entretanto, todavia, por alguma insanidade mental que me possuiu há pouco tempo, mesmo com minhas dificuldades nessas matérias técnicas, eu estou criando um gosto por desenvolvimento e programação... Talvez seja um devaneio, um pensamento descontrolado que passa na mente de um adolescente prestes a adentrar em uma universidade e que ainda não decidiu qual rumo seguir. Enfim, a vida é isso ae. Entendeu?",
+    "data": "04/30/2019"
+  },
+  {
+    "_id": "26f9a31e-2924-47a1-98fc-60b3cf8be7d1",
+    "titulo": "Agora, algumas instruções de como navegar neste site de qualidade duvidosa.",
+    "autor": "João de Andrade",
+    "texto": "Se você está nesta tela, deve clicar em 'Login', a partir disso, você será direcionado para uma tela em que irá inserir seu e-mail e senha. Se por acaso esqueceu sua senha, clique em 'Esqueci minha senha', lá você digitará seu e-mail, para o qual será enviado uma nova senha. Caso não possua cadastro, deve clicar em 'Não possuo cadastro', lá você irá inserir seu e-mail e senha para que realize seu cadastro. ",
+    "data": "12/09/2018"
+    
+  }
+]
